@@ -1,2 +1,3 @@
 # skillfactoryGitTask
-Juas a small task frrom skillfactory
+Just a small task from skillfactory
+new confict
