@@ -1,3 +1,3 @@
 # skillfactoryGitTask
-Juas a small task from skillfactory
-confict situation
+Just a small task from skillfactory
+new confict
